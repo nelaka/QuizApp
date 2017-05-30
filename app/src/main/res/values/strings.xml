@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Delapanta\'s Arts Quiz</string>
+    <string name="quiz_desc">Hello! This is a quiz to test your skills in arts!
+        You have to answer more than 3 questions correctly to pass</string>
+    <string name="image_desc">Arts quiz main photo"</string>
+    <string name="type_your_answer_here">Type your answer here</string>
+    <string name="submit_answers">Submit answers</string>
+    <string name="question1">1. What color are often the domes of churches in Russia?</string>
+    <string name="question2">2. In which Spanish city did the Joan Miro museum open in 1975?</string>
+    <string name="question3">3. Which Italian artist painted the Birth of Venus?</string>
+    <string name="question4">4. In which country was the famous painter El Greco born?</string>
+    <string name="question5">5. Which from the followings are Picasso\'s paintings?</string>
+    <string name="question6">6. In which city did Romeo and Julia live?</string>
+    <string name="correct_answer1">Gold</string>
+    <string name="wrong_answer11">Red</string>
+    <string name="wrong_answer12">Blue</string>
+    <string name="wrong_answer14">White</string>
+    <string name="wrong_answer21">Madrid</string>
+    <string name="correct_answer2">Barcelona</string>
+    <string name="wrong_answer23">Valencia</string>
+    <string name="wrong_answer24">Seville</string>
+    <string name="correct_answer3">Botticelli</string>
+    <string name="wrong_answer32">Michelangelo</string>
+    <string name="wrong_answer33">Da Vinci</string>
+    <string name="wrong_answer34">Picasso</string>
+    <string name="correct_answer41">Greece</string>
+    <string name="correct_answer42">greece</string>
+    <string name="correct_answer51">Guernica</string>
+    <string name="wrong_answer52">Starry Night</string>
+    <string name="wrong_answer53">The flower carrier</string>
+    <string name="correct_answer54">Three Musicians</string>
+    <string name="correct_answer61">Verona</string>
+    <string name="correct_answer62">verona</string>
+    <string name="margin_default">16dp</string>
+
+</resources>
