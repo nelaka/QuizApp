@@ -5,3 +5,6 @@ There are six questions and you have to answer correctly more than three, in ord
 The answers layout are radio buttons, check boxes and simple text (edittext).
 
 Enjoy! :smile:
+
+<h2>App's screenshots</h2>
+<img src="screenshots/arts_quiz.png" width="40%"/>
